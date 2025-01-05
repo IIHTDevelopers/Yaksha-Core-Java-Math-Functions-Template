@@ -1,0 +1,44 @@
+Java Math Functions and Operations
+Project Overview
+This assessment focuses on evaluating participants' understanding and ability to work with basic math functions and operations using Java. Participants will utilize the Math class to perform operations like rounding numbers, finding square roots, performing exponentiation, and using trigonometric and logarithmic functions.
+
+Learning Objectives
+After completing this assessment, participants will be able to:
+
+Use Java’s built-in math functions for basic calculations.
+Perform rounding, square roots, exponentiation, trigonometric, and logarithmic operations.
+Understand and apply the Math class for common mathematical tasks.
+Assessment Tasks
+1. Math Functions and Operations
+Task 1: Absolute Value
+Use the Math.abs() method to find the absolute value of a number.
+
+Example: Given a number -10, find its absolute value.
+Task 2: Max and Min Values
+Use the Math.max() and Math.min() methods to find the maximum and minimum between two numbers.
+
+Example: Find the maximum and minimum between 25 and 10.
+Task 3: Square Root
+Use Math.sqrt() to calculate the square root of a number.
+
+Example: Find the square root of 25.
+Task 4: Exponentiation
+Use Math.pow() to calculate the power of a number.
+
+Example: Calculate 2^3 (2 raised to the power of 3).
+Task 5: Trigonometric Functions
+Use trigonometric functions like Math.sin(), Math.cos(), and Math.tan() to calculate sine, cosine, and tangent of an angle.
+
+Example: Calculate the sine of an angle of 45 degrees.
+Task 6: Logarithmic Operations
+Use Math.log() to calculate the natural logarithm of a number.
+
+Example: Find the natural log of 10.
+Detailed Steps for Participants
+1. Math Operations
+Step 1: Use Math.abs() to calculate the absolute value of a number.
+Step 2: Use Math.max() and Math.min() to find the maximum and minimum between two numbers.
+Step 3: Use Math.sqrt() to find the square root of a number.
+Step 4: Use Math.pow() to perform exponentiation.
+Step 5: Use Math.sin(), Math.cos(), and Math.tan() to calculate trigonometric functions.
+Step 6: Use Math.log() to calculate the natural logarithm.
